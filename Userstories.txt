@@ -1,0 +1,63 @@
+A project is split into several small parts called Epics, which are
+further broken into smaller units, and these units are called user stories
+
+User story is a brief description of a specific feature written by a developer from the customer's viewpoint.
+
+User stories are concise, informal descriptions of a feature or functionality from the perspective of an end user.They are a common tool used in Agile 
+software development to capture requirements and communicate them effectively between stakeholders, including developers, product managers, and customers.
+
+They serve as placeholders for conversations between the development team and stakeholders, helping to clarify
+requirements, prioritize work, and ensure that the resulting product meets the needs of its users.
+
+It's a way of determining the value the feature will bring to the customer.
+
+The 3 C's for writing user stories are Cards, Conversation and Confirmation.
+
+Cards: 
+
+Cards are where the user stories are written.
+The user story written on card should precisely reflect the customer's need which is just enought to 
+describe the user requirement.
+
+Format: As a (particular user), I want to (accomplish this task) so that I can (achieve this objective or goal).
+example: As a website visitor, I want to be able to create an account so that I can access exclusive content.
+
+Once the Product owner finalizes the User story for a particular sprint, they hand the card to the developer.
+
+Conversation:
+
+When a User story is written on a card and put on the board, it reflects the commitment of the team to discuss the User Story.
+The conversation is the way to achieve this.
+When the team holds a conversation on the User Story, it changes into a deliverable.
+Nothing but exchange of ideas and viewpoints.
+It brings clarity about the User Story to all the team members.
+
+Initial user research and brainstroming can be a part of conversation.
+During conversation the user story is further expanded and validated.
+Conversation can be of any type like verbal, through emails, videoconferencing, or chatting.
+The main purpose of conversation is to exchange views and ideas.
+
+Confirmation:
+
+It is the acceptance criteria that should be fulfilled and tested to ensure that the user requirements have 
+been met and devlivered correctly.
+
+Acceptance criteria should eb clearly stated before starting the development, and these are discuessed during the conversation.
+This is necessary to avoid any ambiguity.
+They provide the basis for acceptance tests that would determine the acceptability of a product.
+Confirmation makes sure that the criteria specified have been entirely met.
+The Product owner should test the functionality and confirm that it meets the customer requirements described in the User Story.
+At the end of the iteration, the completion of the User sotry is confirmed when it passes the aceeptance tests.
+The teams should not write too many Acceptance criteria as they will encounter changes in requirements, too many criteria may bring too much rework.
+
+
+The functionality is considered complete and ready for release when these 3 C's are of the User story are completed.
+
+
+
+
+
+
+
+
+

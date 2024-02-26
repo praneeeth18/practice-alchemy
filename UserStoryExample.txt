@@ -1,0 +1,74 @@
+
+A project is split into several small parts called Epics, which are further broken into smaller units, and these units are called user stories
+
+In a real-time project, user stories are typically written collaboratively by the development team, product owners, 
+and stakeholders during the planning phase.
+
+Steps: 
+Identify Users and Roles
+Define User Goals
+Write User Stories
+Prioritize User Stories
+Estimate User Stories
+Refine and Iterate
+Track Progress
+
+By following these steps, development teams can effectively capture and prioritize user requirements,
+leading to the successful delivery of products and systems that meet user needs and expectations.
+
+User Acceptance criteria:
+
+User acceptance criteria is a set of conditions or criteria that must be met in order for a user story, feature, 
+or deliverable to be accepted by the end user or customer. They are defined collaboratively by the development team, product owner, and stakeholders
+during the sprint or iteration planning process in Agile development.
+
+User acceptance criteria help to ensure that the work delivered meets the expectations and requirements of the users or customers. They serve as objective
+measures of success and provide clarity on what constitutes a satisfactory outcome. By defining acceptance criteria upfront, the team can focus their
+efforts on meeting specific goals and delivering value to the users.
+
+Here are some key characteristics of user acceptance criteria:
+
+Specific: UAC should be clear, concise, and specific, leaving no room for ambiguity.
+They should articulate exactly what needs to be accomplished or demonstrated.
+
+Measurable: UAC should be measurable and verifiable. They should describe observable outcomes or behaviors that can be objectively assessed.
+
+Achievable: UAC should be realistic and attainable within the given constraints, such as time, resources, and technology.
+
+Relevant: UAC should be relevant to the user's needs and aligned with the overall goals of the project.
+They should focus on delivering value to the end user or customer.
+
+Time-bound: UAC should be time-bound, meaning they should specify when the criteria need to be met, such as by the end of a sprint or before a certain
+deadline.
+
+Independent: Each user story should have its own set of acceptance criteria that are independent of other stories.
+This ensures that each feature or deliverable can be evaluated on its own merits.
+
+Example:
+
+Format: As a (particular user), I want to (accomplish this task) so that I can (achieve this objective or goal). 
+
+User Story: As a registered user, I want to be able to reset my password so that I can regain access to my account if I forget my password.
+
+User Acceptance Criteria:
+
+The "Forgot Password" link is prominently displayed on the login page.
+Clicking on the "Forgot Password" link takes the user to a password reset page.
+The password reset page includes a form where the user can enter their email address.
+After submitting the email address, the user receives an email with a password reset link.
+Clicking on the password reset link takes the user to a page where they can enter a new password.
+After entering a new password, the user is redirected to the login page with a success message confirming that their password has been reset.
+
+
+User story:
+"As a commuter, I want to be able to check real-time bus arrival times on my phone so that I can plan my journey more efficiently."
+
+This user story captures the perspective of a commuter who relies on public transportation. It articulates the user's need to access real-time bus arrival
+information conveniently through a mobile device. By fulfilling this user story, the product or service being developed would provide value to users by
+helping them plan their journeys more effectively and reduce waiting times at bus stops.
+
+User Acceptance criteria:
+
+The mobile application should provide a clear and intuitive interface for accessing real-time bus arrival information.
+The application should display accurate and up-to-date arrival times for nearby bus stops based on the user's current location.
+Bus arrival times should be refreshed automatically at regular intervals to ensure that users have access to the latest information.
