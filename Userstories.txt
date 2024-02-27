@@ -42,7 +42,7 @@ Confirmation:
 It is the acceptance criteria that should be fulfilled and tested to ensure that the user requirements have 
 been met and devlivered correctly.
 
-Acceptance criteria should eb clearly stated before starting the development, and these are discuessed during the conversation.
+Acceptance criteria should be clearly stated before starting the development, and these are discuessed during the conversation.
 This is necessary to avoid any ambiguity.
 They provide the basis for acceptance tests that would determine the acceptability of a product.
 Confirmation makes sure that the criteria specified have been entirely met.
